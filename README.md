@@ -1,6 +1,6 @@
 # A simple Hyperloop Rails App
 
-This quick tutorial will take you through all the steps necessary to get simple HyperReact components rendering in a new Rails application.
+This quick tutorial will take you through all the steps necessary to get simple HyperReact components rendering in a new Rails application. You can clone the source of this tutorial [here](https://github.com/barriehadfield/tutorial-hyperreact-rails).
 
 Firstly, let's create a new Rails app. If you would like to add HyperReact to an existing app simply skip this step and pickup from where we add the HyperRails gem.
 
